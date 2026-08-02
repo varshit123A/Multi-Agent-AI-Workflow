@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Multi-Agent AI Workflow Platform",
+  "description": "Enterprise-scale multi-agent orchestration platform with LangGraph-style state graphs, automated Ragas/DeepEval evaluation, guardrails with PII masking, human-in-the-loop approval, and full observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
